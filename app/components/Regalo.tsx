@@ -18,8 +18,8 @@ export default function Regalo() {
       </h2>
 
       <p className="max-w-md font-legible text-xl text-cream">
-        No es necesario, lo más importante <br/> es compartir este día juntos.
-        Pero si aún así querés hacernos un mimo, <br/>te dejamos por acá nuestro alias.{" "}<br/>
+        No es necesario, lo más importante <br/> es compartir este día juntos. <br/>
+        Pero si aún así querés hacernos un mimo, <br/>te dejamos por acá nuestro alias.{" "}<br/> <br/>
         <strong className="font-bold">boda-katy-daro</strong>.
       </p>
 
